@@ -7,5 +7,3 @@ I highly recommend going through my 'Cartpole-v0 using Q learning and SARSA' rep
 Thomos Simonini: Reinforcement Learning with Q Learning: https://lnkd.in/eh46x3V
 Reinforcement Learning by Jacob Schrum : https://lnkd.in/eRS2vBY
 Reinforcement Learning by David Silver : https://lnkd.in/ebtdXkd
-
-You can reach out to me on isaacpatole4u@gmail.com if you find yourself stuck at any point. 
